@@ -20,8 +20,8 @@ The Box Office Forecaster is a sophisticated model designed to predict movie rev
 4. The model can be used to predict revenues by inputting the desired movie characteristics.
 
 ## Files in the Repository
-- `data_analysis.ipynb`: Jupyter Notebook containing the data analysis and visualizations.
-- `regression_model.ipynb`: Jupyter Notebook with the regression model development.
-- `dataset.csv`: The dataset used for the analysis.
+- `prediction_model.py`: Jupyter Notebook containing the data analysis and visualizations with the regression model development.
+- `budget_prediction.pdf`: Extended description of outcomes.
+- `movie_revenues.zip`: The dataset used for the analysis.
 
 
